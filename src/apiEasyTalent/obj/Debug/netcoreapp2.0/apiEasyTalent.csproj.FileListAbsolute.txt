@@ -1,0 +1,10 @@
+/home/vitor/projetosDosGit/easyTalent/src/apiEasyTalent/bin/Debug/netcoreapp2.0/apiEasyTalent.deps.json
+/home/vitor/projetosDosGit/easyTalent/src/apiEasyTalent/bin/Debug/netcoreapp2.0/apiEasyTalent.runtimeconfig.json
+/home/vitor/projetosDosGit/easyTalent/src/apiEasyTalent/bin/Debug/netcoreapp2.0/apiEasyTalent.runtimeconfig.dev.json
+/home/vitor/projetosDosGit/easyTalent/src/apiEasyTalent/bin/Debug/netcoreapp2.0/apiEasyTalent.dll
+/home/vitor/projetosDosGit/easyTalent/src/apiEasyTalent/bin/Debug/netcoreapp2.0/apiEasyTalent.pdb
+/home/vitor/projetosDosGit/easyTalent/src/apiEasyTalent/obj/Debug/netcoreapp2.0/apiEasyTalent.csproj.CoreCompileInputs.cache
+/home/vitor/projetosDosGit/easyTalent/src/apiEasyTalent/obj/Debug/netcoreapp2.0/apiEasyTalent.AssemblyInfoInputs.cache
+/home/vitor/projetosDosGit/easyTalent/src/apiEasyTalent/obj/Debug/netcoreapp2.0/apiEasyTalent.AssemblyInfo.cs
+/home/vitor/projetosDosGit/easyTalent/src/apiEasyTalent/obj/Debug/netcoreapp2.0/apiEasyTalent.dll
+/home/vitor/projetosDosGit/easyTalent/src/apiEasyTalent/obj/Debug/netcoreapp2.0/apiEasyTalent.pdb
