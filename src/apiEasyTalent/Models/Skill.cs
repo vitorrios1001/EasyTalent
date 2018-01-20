@@ -4,7 +4,7 @@ namespace apiEasyTalent.Models
     {
         public int Id { get; set; }
 
-        public int TalentId { get; set; }
+        public int Id_Skill { get; set; }
 
         public Talent Talent { get; set; }
         

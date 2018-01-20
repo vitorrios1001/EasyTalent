@@ -58,7 +58,9 @@ namespace apiEasyTalent.Models
 
         public string LinkCrud { get; set; }
 
-        public virtual Skill Skill { get; set; }  
+        public virtual Skill Skill { get; set; } 
+
+        public int Id_Skill { get; set; } 
 
 
     }
